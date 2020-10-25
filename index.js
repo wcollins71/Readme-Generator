@@ -87,9 +87,9 @@ function init() {
                     tableOfContents + "\n\n" +
                     "## Installation \n" + "To install necesary dependencies, run the following command: \n" +
                     "--- \n" + response.installation + "\n--- \n\n" +
-                    "## Usage \n\n" + response.usage +
+                    "## Usage \n" + response.usage + "\n\n" +
                     "## License \n" + "This project is licensed under the " + response.license + " license \n\n" +
-                    "## Contibuting \n" + response.contributing + "\n\n" +
+                    "## Contributing \n" + response.contributing + "\n\n" +
                     "## Tests \n" + response.testCommand + "\n\n" +
                     "## Questions \n If you have any questins about the repo, open an issue or contact me directly at wayne@wcit.net.au. \n" +
                     "You can find more of my work at [wcollins71](https://github.com/wcollins71)"
