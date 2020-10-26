@@ -107,5 +107,10 @@ You are required to submit the following for review:
 
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
+Link to GitHub repo
+https://github.com/wcollins71/Readme-Generator
+Link to sample generated README
+https://github.com/wcollins71/Readme-Generator/blob/main/generated/README.md
+
 - - -
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
