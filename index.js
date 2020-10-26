@@ -1,7 +1,6 @@
 const fs = require("fs");
 const inquirer = require("inquirer");
 const markdown = require("./utils/generateMarkdown");
-const fileName = "README.md";
 const tableOfContents = "## Table of Contents \n \
 * [Installation](#installation) \n \
 * [Usage](#usage) \n \
@@ -54,10 +53,6 @@ const questions = [
         name: "contributing"
     }
 ];
-
-// function to write README file
-function writeToFile(fileName, data) {
-};
 
 // function to initialize program
 function init() {
